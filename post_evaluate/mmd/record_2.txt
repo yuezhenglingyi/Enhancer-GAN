@@ -1,0 +1,96 @@
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=1; mmd_3: 0.11001
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=2; mmd_3: 0.11176
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=3; mmd_3: 0.11027
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=4; mmd_3: 0.11089
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=5; mmd_3: 0.11022
+--> average: 0.11063
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=1; mmd_4: 0.12632
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=2; mmd_4: 0.12531
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=3; mmd_4: 0.12525
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=4; mmd_4: 0.12505
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=5; mmd_4: 0.12685
+--> average: 0.12576
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=1; mmd_5: 0.10983
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=2; mmd_5: 0.10999
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=3; mmd_5: 0.11058
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=4; mmd_5: 0.10994
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=5; mmd_5: 0.11047
+--> average: 0.11016
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=1; mmd_6: 0.08334
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=2; mmd_6: 0.08408
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=3; mmd_6: 0.08354
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=4; mmd_6: 0.08398
+train(2w) vs origin wgan_gp (epoch=86); spectrum; iter=5; mmd_6: 0.08456
+--> average: 0.08390
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=1; mmd_3: 0.15412
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=2; mmd_3: 0.15297
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=3; mmd_3: 0.15619
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=4; mmd_3: 0.15334
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=5; mmd_3: 0.15469
+--> average: 0.15426
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=1; mmd_4: 0.09089
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=2; mmd_4: 0.08744
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=3; mmd_4: 0.08866
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=4; mmd_4: 0.08823
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=5; mmd_4: 0.08813
+--> average: 0.08867
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=1; mmd_5: 0.07204
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=2; mmd_5: 0.07219
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=3; mmd_5: 0.07424
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=4; mmd_5: 0.07280
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=5; mmd_5: 0.07374
+--> average: 0.07300
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=1; mmd_6: 0.06899
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=2; mmd_6: 0.06972
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=3; mmd_6: 0.06738
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=4; mmd_6: 0.06893
+train(2w) vs origin wgan_gp (epoch=86); DNABert; iter=5; mmd_6: 0.06813
+--> average: 0.06863
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=1; mmd_3: 0.15268
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=2; mmd_3: 0.15382
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=3; mmd_3: 0.15432
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=4; mmd_3: 0.15314
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=5; mmd_3: 0.15357
+--> average: 0.15351
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=1; mmd_4: 0.16607
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=2; mmd_4: 0.16752
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=3; mmd_4: 0.16630
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=4; mmd_4: 0.16484
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=5; mmd_4: 0.16491
+--> average: 0.16593
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=1; mmd_5: 0.14325
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=2; mmd_5: 0.14345
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=3; mmd_5: 0.14341
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=4; mmd_5: 0.14359
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=5; mmd_5: 0.14304
+--> average: 0.14335
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=1; mmd_6: 0.10384
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=2; mmd_6: 0.10501
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=3; mmd_6: 0.10414
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=4; mmd_6: 0.10447
+train(2w) vs origin wgan_gp (epoch=91); spectrum; iter=5; mmd_6: 0.10433
+--> average: 0.10436
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=1; mmd_3: 0.14212
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=2; mmd_3: 0.14083
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=3; mmd_3: 0.14181
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=4; mmd_3: 0.14260
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=5; mmd_3: 0.14179
+--> average: 0.14183
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=1; mmd_4: 0.07888
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=2; mmd_4: 0.07950
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=3; mmd_4: 0.07893
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=4; mmd_4: 0.07878
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=5; mmd_4: 0.07943
+--> average: 0.07910
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=1; mmd_5: 0.05279
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=2; mmd_5: 0.05358
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=3; mmd_5: 0.05376
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=4; mmd_5: 0.05240
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=5; mmd_5: 0.05271
+--> average: 0.05305
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=1; mmd_6: 0.06543
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=2; mmd_6: 0.06344
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=3; mmd_6: 0.06425
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=4; mmd_6: 0.06412
+train(2w) vs origin wgan_gp (epoch=91); DNABert; iter=5; mmd_6: 0.06328
+--> average: 0.06410

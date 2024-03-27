@@ -1,0 +1,626 @@
+test vs val; spectrum; mmd_mer_3: 0.02583
+test vs val; spectrum; mmd_mer_4: 0.02722
+test vs val; spectrum; mmd_mer_5: 0.02480
+test vs val; DNABert; mmd_mer_3: 0.01849
+test vs val; DNABert; mmd_mer_4: 0.01247
+test vs val; DNABert; mmd_mer_5: 0.01304
+train(10w vs 10w); spectrum; iter=1; mmd_3 : 0.00381
+train(10w vs 10w); spectrum; iter=2; mmd_3 : 0.00403
+train(10w vs 10w); spectrum; iter=3; mmd_3: 0.00440
+train(10w vs 10w); spectrum; iter=4; mmd_3: 0.00296
+train(10w vs 10w); spectrum; iter=5; mmd_3: 0.00321
+--> average: 0.00368
+train(10w vs 10w); spectrum; iter=1; mmd_4: 0.00443
+train(10w vs 10w); spectrum; iter=2; mmd_4: 0.00468
+train(10w vs 10w); spectrum; iter=3; mmd_4: 0.00426
+train(10w vs 10w); spectrum; iter=4; mmd_4: 0.00478
+train(10w vs 10w); spectrum; iter=5; mmd_4: 0.00464
+--> average: 0.00456
+train(10w vs 10w); spectrum; iter=1; mmd_5: 0.00586
+train(10w vs 10w); spectrum; iter=2; mmd_5: 0.00571
+train(10w vs 10w); spectrum; iter=3; mmd_5: 0.00574
+train(10w vs 10w); spectrum; iter=4; mmd_5: 0.00547
+train(10w vs 10w); spectrum; iter=5; mmd_5: 0.00600
+--> average: 0.00576
+train(10w vs 10w); DNABert; iter=1; mmd_3: 0.00422
+train(10w vs 10w); DNABert; iter=2; mmd_3: 0.00483
+train(10w vs 10w); DNABert; iter=3; mmd_3: 0.00424
+train(10w vs 10w); DNABert; iter=4; mmd_3: 0.00519
+train(10w vs 10w); DNABert; iter=5; mmd_3: 0.00390
+--> average: 0.00448
+train(10w vs 10w); DNABert; iter=1; mmd_4: 0.00646
+train(10w vs 10w); DNABert; iter=2; mmd_4: 0.00531
+train(10w vs 10w); DNABert; iter=3; mmd_4: 0.00627
+train(10w vs 10w); DNABert; iter=4; mmd_4: 0.00654
+train(10w vs 10w); DNABert; iter=5; mmd_4: 0.00579
+--> average: 0.00607
+train(10w vs 10w); DNABert; iter=1; mmd_5: 0.00672
+train(10w vs 10w); DNABert; iter=2; mmd_5: 0.00601
+train(10w vs 10w); DNABert; iter=3; mmd_5: 0.00611
+train(10w vs 10w); DNABert; iter=4; mmd_5: 0.00596
+train(10w vs 10w); DNABert; iter=5; mmd_5: 0.00528
+--> average: 0.00602
+
+test vs random_special; spectrum; iter=1; mmd_3: 0.21923
+test vs random_special; spectrum; iter=2; mmd_3: 0.21985
+test vs random_special; spectrum; iter=3; mmd_3: 0.21956
+test vs random_special; spectrum; iter=4; mmd_3: 0.21857
+test vs random_special; spectrum; iter=5; mmd_3: 0.22006
+--> average: 0.21945
+test vs random_special; spectrum; iter=1; mmd_4: 0.22042
+test vs random_special; spectrum; iter=2; mmd_4: 0.22096
+test vs random_special; spectrum; iter=3; mmd_4: 0.22088
+test vs random_special; spectrum; iter=4; mmd_4: 0.21980
+test vs random_special; spectrum; iter=5; mmd_4: 0.22123
+--> average: 0.22066
+test vs random_special; spectrum; iter=1; mmd_5: 0.17408
+test vs random_special; spectrum; iter=2; mmd_5: 0.17450
+test vs random_special; spectrum; iter=3; mmd_5: 0.17432
+test vs random_special; spectrum; iter=4; mmd_5: 0.17363
+test vs random_special; spectrum; iter=5; mmd_5: 0.17467
+--> average: 0.17424
+test vs random_special; spectrum; iter=1; mmd_6: 0.11902
+test vs random_special; spectrum; iter=2; mmd_6: 0.11941
+test vs random_special; spectrum; iter=3; mmd_6: 0.11918
+test vs random_special; spectrum; iter=4; mmd_6: 0.11885
+test vs random_special; spectrum; iter=5; mmd_6: 0.11950
+--> average: 0.11919
+test vs random_special; DNABert; iter=1; mmd_3: 0.14055
+test vs random_special; DNABert; iter=2; mmd_3: 0.14114
+test vs random_special; DNABert; iter=3; mmd_3: 0.14288
+test vs random_special; DNABert; iter=4; mmd_3: 0.14069
+test vs random_special; DNABert; iter=5; mmd_3: 0.14096
+--> average: 0.14125
+test vs random_special; DNABert; iter=1; mmd_4: 0.07664
+test vs random_special; DNABert; iter=2; mmd_4: 0.07764
+test vs random_special; DNABert; iter=3; mmd_4: 0.07691
+test vs random_special; DNABert; iter=4; mmd_4: 0.07754
+test vs random_special; DNABert; iter=5; mmd_4: 0.07734
+--> average: 0.07721
+test vs random_special; DNABert; iter=1; mmd_5: 0.06287
+test vs random_special; DNABert; iter=2; mmd_5: 0.06152
+test vs random_special; DNABert; iter=3; mmd_5: 0.06349
+test vs random_special; DNABert; iter=4; mmd_5: 0.06363
+test vs random_special; DNABert; iter=5; mmd_5: 0.06333
+--> average: 0.06297
+test vs random_special; DNABert; iter=1; mmd_6: 0.07167
+test vs random_special; DNABert; iter=2; mmd_6: 0.07164
+test vs random_special; DNABert; iter=3; mmd_6: 0.07195
+test vs random_special; DNABert; iter=4; mmd_6: 0.07139
+test vs random_special; DNABert; iter=5; mmd_6: 0.07170
+--> average: 0.07167
+
+test vs random_uniform; spectrum; iter=1; mmd_3: 0.31363
+test vs random_uniform; spectrum; iter=2; mmd_3: 0.31429
+test vs random_uniform; spectrum; iter=3; mmd_3: 0.31321
+test vs random_uniform; spectrum; iter=4; mmd_3: 0.31388
+test vs random_uniform; spectrum; iter=5; mmd_3: 0.31346
+--> average: 0.31369
+test vs random_uniform; spectrum; iter=1; mmd_4: 0.30141
+test vs random_uniform; spectrum; iter=2; mmd_4: 0.30187
+test vs random_uniform; spectrum; iter=3; mmd_4: 0.30080
+test vs random_uniform; spectrum; iter=4; mmd_4: 0.30165
+test vs random_uniform; spectrum; iter=5; mmd_4: 0.30116
+--> average: 0.30138
+test vs random_uniform; spectrum; iter=1; mmd_5: 0.23156
+test vs random_uniform; spectrum; iter=2; mmd_5: 0.23184
+test vs random_uniform; spectrum; iter=3; mmd_5: 0.23104
+test vs random_uniform; spectrum; iter=4; mmd_5: 0.23180
+test vs random_uniform; spectrum; iter=5; mmd_5: 0.23133
+--> average: 0.23151
+test vs random_uniform; spectrum; iter=1; mmd_6: 0.15364
+test vs random_uniform; spectrum; iter=2; mmd_6: 0.15378
+test vs random_uniform; spectrum; iter=3; mmd_6: 0.15329
+test vs random_uniform; spectrum; iter=4; mmd_6: 0.15381
+test vs random_uniform; spectrum; iter=5; mmd_6: 0.15349
+--> average: 0.15360
+test vs random_uniform; DNABert; iter=1; mmd_3: 0.24522
+test vs random_uniform; DNABert; iter=2; mmd_3: 0.24585
+test vs random_uniform; DNABert; iter=3; mmd_3: 0.24495
+test vs random_uniform; DNABert; iter=4; mmd_3: 0.24486
+test vs random_uniform; DNABert; iter=5; mmd_3: 0.24561
+--> average: 0.24530
+test vs random_uniform; DNABert; iter=1; mmd_4: 0.13761
+test vs random_uniform; DNABert; iter=2; mmd_4: 0.13707
+test vs random_uniform; DNABert; iter=3; mmd_4: 0.13753
+test vs random_uniform; DNABert; iter=4; mmd_4: 0.13773
+test vs random_uniform; DNABert; iter=5; mmd_4: 0.13797
+--> average: 0.13758
+test vs random_uniform; DNABert; iter=1; mmd_5: 0.11322
+test vs random_uniform; DNABert; iter=2; mmd_5: 0.11215
+test vs random_uniform; DNABert; iter=3; mmd_5: 0.11348
+test vs random_uniform; DNABert; iter=4; mmd_5: 0.11323
+test vs random_uniform; DNABert; iter=5; mmd_5: 0.11396
+--> average: 0.11321
+test vs random_uniform; DNABert; iter=1; mmd_6: 0.11959
+test vs random_uniform; DNABert; iter=2; mmd_6: 0.12032
+test vs random_uniform; DNABert; iter=3; mmd_6: 0.12066
+test vs random_uniform; DNABert; iter=4; mmd_6: 0.12203
+test vs random_uniform; DNABert; iter=5; mmd_6: 0.12069
+--> average: 0.12066
+
+val vs random_special; spectrum; iter=1; mmd_3: 0.20750
+val vs random_special; spectrum; iter=2; mmd_3: 0.20806
+val vs random_special; spectrum; iter=3; mmd_3: 0.20774
+val vs random_special; spectrum; iter=4; mmd_3: 0.20674
+val vs random_special; spectrum; iter=5; mmd_3: 0.20809
+--> average: 0.20763
+val vs random_special; spectrum; iter=1; mmd_4: 0.20915
+val vs random_special; spectrum; iter=2; mmd_4: 0.20964
+val vs random_special; spectrum; iter=3; mmd_4: 0.20953
+val vs random_special; spectrum; iter=4; mmd_4: 0.20845
+val vs random_special; spectrum; iter=5; mmd_4: 0.20975
+--> average: 0.20930
+val vs random_special; spectrum; iter=1; mmd_5: 0.16558
+val vs random_special; spectrum; iter=2; mmd_5: 0.16597
+val vs random_special; spectrum; iter=3; mmd_5: 0.16576
+val vs random_special; spectrum; iter=4; mmd_5: 0.16503
+val vs random_special; spectrum; iter=5; mmd_5: 0.16599
+--> average: 0.16567
+val vs random_special; spectrum; iter=1; mmd_6: 0.11365
+val vs random_special; spectrum; iter=2; mmd_6: 0.11403
+val vs random_special; spectrum; iter=3; mmd_6: 0.11376
+val vs random_special; spectrum; iter=4; mmd_6: 0.11342
+val vs random_special; spectrum; iter=5; mmd_6: 0.11402
+--> average: 0.11377
+val vs random_special; DNABert; iter=1; mmd_3: 0.13874
+val vs random_special; DNABert; iter=2; mmd_3: 0.13923
+val vs random_special; DNABert; iter=3; mmd_3: 0.14113
+val vs random_special; DNABert; iter=4; mmd_3: 0.13879
+val vs random_special; DNABert; iter=5; mmd_3: 0.13904
+--> average: 0.13939
+val vs random_special; DNABert; iter=1; mmd_4: 0.07550
+val vs random_special; DNABert; iter=2; mmd_4: 0.07657
+val vs random_special; DNABert; iter=3; mmd_4: 0.07589
+val vs random_special; DNABert; iter=4; mmd_4: 0.07632
+val vs random_special; DNABert; iter=5; mmd_4: 0.07605
+--> average: 0.07607
+val vs random_special; DNABert; iter=1; mmd_5: 0.06009
+val vs random_special; DNABert; iter=2; mmd_5: 0.05881
+val vs random_special; DNABert; iter=3; mmd_5: 0.06047
+val vs random_special; DNABert; iter=4; mmd_5: 0.06065
+val vs random_special; DNABert; iter=5; mmd_5: 0.06047
+--> average: 0.06010
+val vs random_special; DNABert; iter=1; mmd_6: 0.06894
+val vs random_special; DNABert; iter=2; mmd_6: 0.06923
+val vs random_special; DNABert; iter=3; mmd_6: 0.06933
+val vs random_special; DNABert; iter=4; mmd_6: 0.06905
+val vs random_special; DNABert; iter=5; mmd_6: 0.06934
+--> average: 0.06918
+
+val vs random_uniform; spectrum; iter=1; mmd_3: 0.31757
+val vs random_uniform; spectrum; iter=2; mmd_3: 0.31831
+val vs random_uniform; spectrum; iter=3; mmd_3: 0.31726
+val vs random_uniform; spectrum; iter=4; mmd_3: 0.31787
+val vs random_uniform; spectrum; iter=5; mmd_3: 0.31748
+--> average: 0.31770
+val vs random_uniform; spectrum; iter=1; mmd_4: 0.30402
+val vs random_uniform; spectrum; iter=2; mmd_4: 0.30457
+val vs random_uniform; spectrum; iter=3; mmd_4: 0.30352
+val vs random_uniform; spectrum; iter=4; mmd_4: 0.30431
+val vs random_uniform; spectrum; iter=5; mmd_4: 0.30386
+--> average: 0.30406
+val vs random_uniform; spectrum; iter=1; mmd_5: 0.23307
+val vs random_uniform; spectrum; iter=2; mmd_5: 0.23342
+val vs random_uniform; spectrum; iter=3; mmd_5: 0.23263
+val vs random_uniform; spectrum; iter=4; mmd_5: 0.23335
+val vs random_uniform; spectrum; iter=5; mmd_5: 0.23291
+--> average: 0.23308
+val vs random_uniform; spectrum; iter=1; mmd_6: 0.15414
+val vs random_uniform; spectrum; iter=2; mmd_6: 0.15433
+val vs random_uniform; spectrum; iter=3; mmd_6: 0.15385
+val vs random_uniform; spectrum; iter=4; mmd_6: 0.15434
+val vs random_uniform; spectrum; iter=5; mmd_6: 0.15405
+--> average: 0.15414
+val vs random_uniform; DNABert; iter=1; mmd_3: 0.25030
+val vs random_uniform; DNABert; iter=2; mmd_3: 0.25095
+val vs random_uniform; DNABert; iter=3; mmd_3: 0.25014
+val vs random_uniform; DNABert; iter=4; mmd_3: 0.24992
+val vs random_uniform; DNABert; iter=5; mmd_3: 0.25068
+--> average: 0.25040
+val vs random_uniform; DNABert; iter=1; mmd_4: 0.14179
+val vs random_uniform; DNABert; iter=2; mmd_4: 0.14116
+val vs random_uniform; DNABert; iter=3; mmd_4: 0.14166
+val vs random_uniform; DNABert; iter=4; mmd_4: 0.14197
+val vs random_uniform; DNABert; iter=5; mmd_4: 0.14215
+--> average: 0.14175
+val vs random_uniform; DNABert; iter=1; mmd_5: 0.11826
+val vs random_uniform; DNABert; iter=2; mmd_5: 0.11717
+val vs random_uniform; DNABert; iter=3; mmd_5: 0.11853
+val vs random_uniform; DNABert; iter=4; mmd_5: 0.11828
+val vs random_uniform; DNABert; iter=5; mmd_5: 0.11890
+--> average: 0.11823
+val vs random_uniform; DNABert; iter=1; mmd_6: 0.12272
+val vs random_uniform; DNABert; iter=2; mmd_6: 0.12350
+val vs random_uniform; DNABert; iter=3; mmd_6: 0.12387
+val vs random_uniform; DNABert; iter=4; mmd_6: 0.12526
+val vs random_uniform; DNABert; iter=5; mmd_6: 0.12373
+--> average: 0.12382
+
+train(2w) vs random_special_seqs; spectrum; iter=1; mmd_3: 0.22505
+train(2w) vs random_special_seqs; spectrum; iter=2; mmd_3: 0.22598
+train(2w) vs random_special_seqs; spectrum; iter=3; mmd_3: 0.22469
+train(2w) vs random_special_seqs; spectrum; iter=4; mmd_3: 0.22438
+train(2w) vs random_special_seqs; spectrum; iter=5; mmd_3: 0.22624
+--> average: 0.22527
+train(2w) vs random_special_seqs; spectrum; iter=1; mmd_4: 0.22690
+train(2w) vs random_special_seqs; spectrum; iter=2; mmd_4: 0.22712
+train(2w) vs random_special_seqs; spectrum; iter=3; mmd_4: 0.22738
+train(2w) vs random_special_seqs; spectrum; iter=4; mmd_4: 0.22681
+train(2w) vs random_special_seqs; spectrum; iter=5; mmd_4: 0.22680
+--> average: 0.22700
+train(2w) vs random_special_seqs; spectrum; iter=1; mmd_5: 0.17966
+train(2w) vs random_special_seqs; spectrum; iter=2; mmd_5: 0.18170
+train(2w) vs random_special_seqs; spectrum; iter=3; mmd_5: 0.18155
+train(2w) vs random_special_seqs; spectrum; iter=4; mmd_5: 0.18080
+train(2w) vs random_special_seqs; spectrum; iter=5; mmd_5: 0.18211
+--> average: 0.18116
+train(2w) vs random_special_seqs; spectrum; iter=1; mmd_6: 0.12493
+train(2w) vs random_special_seqs; spectrum; iter=2; mmd_6: 0.12626
+train(2w) vs random_special_seqs; spectrum; iter=3; mmd_6: 0.12517
+train(2w) vs random_special_seqs; spectrum; iter=4; mmd_6: 0.12601
+train(2w) vs random_special_seqs; spectrum; iter=5; mmd_6: 0.12619
+--> average: 0.12571
+train(2w) vs random_special_seqs; DNABert; iter=1; mmd_3: 0.14538
+train(2w) vs random_special_seqs; DNABert; iter=2; mmd_3: 0.14504
+train(2w) vs random_special_seqs; DNABert; iter=3; mmd_3: 0.14760
+train(2w) vs random_special_seqs; DNABert; iter=4; mmd_3: 0.14570
+train(2w) vs random_special_seqs; DNABert; iter=5; mmd_3: 0.14608
+--> average: 0.14596
+train(2w) vs random_special_seqs; DNABert; iter=1; mmd_4: 0.08158
+train(2w) vs random_special_seqs; DNABert; iter=2; mmd_4: 0.08210
+train(2w) vs random_special_seqs; DNABert; iter=3; mmd_4: 0.08150
+train(2w) vs random_special_seqs; DNABert; iter=4; mmd_4: 0.08166
+train(2w) vs random_special_seqs; DNABert; iter=5; mmd_4: 0.08166
+--> average: 0.08170
+train(2w) vs random_special_seqs; DNABert; iter=1; mmd_5: 0.06537
+train(2w) vs random_special_seqs; DNABert; iter=2; mmd_5: 0.06265
+train(2w) vs random_special_seqs; DNABert; iter=3; mmd_5: 0.06610
+train(2w) vs random_special_seqs; DNABert; iter=4; mmd_5: 0.06584
+train(2w) vs random_special_seqs; DNABert; iter=5; mmd_5: 0.06683
+--> average: 0.06536
+train(2w) vs random_special_seqs; DNABert; iter=1; mmd_6: 0.07428
+train(2w) vs random_special_seqs; DNABert; iter=2; mmd_6: 0.07424
+train(2w) vs random_special_seqs; DNABert; iter=3; mmd_6: 0.07400
+train(2w) vs random_special_seqs; DNABert; iter=4; mmd_6: 0.07292
+train(2w) vs random_special_seqs; DNABert; iter=5; mmd_6: 0.07427
+--> average: 0.07394
+
+train(2w) vs random_uniform; spectrum; iter=1; mmd_3: 0.34105
+train(2w) vs random_uniform; spectrum; iter=2; mmd_3: 0.34061
+train(2w) vs random_uniform; spectrum; iter=3; mmd_3: 0.33959
+train(2w) vs random_uniform; spectrum; iter=4; mmd_3: 0.34091
+train(2w) vs random_uniform; spectrum; iter=5; mmd_3: 0.34072
+--> average: 0.34058
+train(2w) vs random_uniform; spectrum; iter=1; mmd_4: 0.32789
+train(2w) vs random_uniform; spectrum; iter=2; mmd_4: 0.32653
+train(2w) vs random_uniform; spectrum; iter=3; mmd_4: 0.32417
+train(2w) vs random_uniform; spectrum; iter=4; mmd_4: 0.32782
+train(2w) vs random_uniform; spectrum; iter=5; mmd_4: 0.32686
+--> average: 0.32666
+train(2w) vs random_uniform; spectrum; iter=1; mmd_5: 0.25071
+train(2w) vs random_uniform; spectrum; iter=2; mmd_5: 0.25132
+train(2w) vs random_uniform; spectrum; iter=3; mmd_5: 0.25275
+train(2w) vs random_uniform; spectrum; iter=4; mmd_5: 0.25060
+train(2w) vs random_uniform; spectrum; iter=5; mmd_5: 0.25115
+--> average: 0.25131
+train(2w) vs random_uniform; spectrum; iter=1; mmd_6: 0.16740
+train(2w) vs random_uniform; spectrum; iter=2; mmd_6: 0.16866
+train(2w) vs random_uniform; spectrum; iter=3; mmd_6: 0.16754
+train(2w) vs random_uniform; spectrum; iter=4; mmd_6: 0.16710
+train(2w) vs random_uniform; spectrum; iter=5; mmd_6: 0.16663
+--> average: 0.16747
+train(2w) vs random_uniform; DNABert; iter=1; mmd_3: 0.26395
+train(2w) vs random_uniform; DNABert; iter=2; mmd_3: 0.26393
+train(2w) vs random_uniform; DNABert; iter=3; mmd_3: 0.26576
+train(2w) vs random_uniform; DNABert; iter=4; mmd_3: 0.26324
+train(2w) vs random_uniform; DNABert; iter=5; mmd_3: 0.26262
+--> average: 0.26390
+train(2w) vs random_uniform; DNABert; iter=1; mmd_4: 0.15222
+train(2w) vs random_uniform; DNABert; iter=2; mmd_4: 0.14994
+train(2w) vs random_uniform; DNABert; iter=3; mmd_4: 0.15113
+train(2w) vs random_uniform; DNABert; iter=4; mmd_4: 0.15089
+train(2w) vs random_uniform; DNABert; iter=5; mmd_4: 0.15146
+--> average: 0.15113
+train(2w) vs random_uniform; DNABert; iter=1; mmd_5: 0.12553
+train(2w) vs random_uniform; DNABert; iter=2; mmd_5: 0.12585
+train(2w) vs random_uniform; DNABert; iter=3; mmd_5: 0.12698
+train(2w) vs random_uniform; DNABert; iter=4; mmd_5: 0.12516
+train(2w) vs random_uniform; DNABert; iter=5; mmd_5: 0.12773
+--> average: 0.12625
+train(2w) vs random_uniform; DNABert; iter=1; mmd_6: 0.13314
+train(2w) vs random_uniform; DNABert; iter=2; mmd_6: 0.13169
+train(2w) vs random_uniform; DNABert; iter=3; mmd_6: 0.13428
+train(2w) vs random_uniform; DNABert; iter=4; mmd_6: 0.13530
+train(2w) vs random_uniform; DNABert; iter=5; mmd_6: 0.13353
+--> average: 0.13359
+
+train(2w) vs fake seqs (epoch=198); spectrum; iter=1; mmd_3: 0.08499
+train(2w) vs fake seqs (epoch=198); spectrum; iter=2; mmd_3: 0.08588
+train(2w) vs fake seqs (epoch=198); spectrum; iter=3; mmd_3: 0.08548
+train(2w) vs fake seqs (epoch=198); spectrum; iter=4; mmd_3: 0.08607
+train(2w) vs fake seqs (epoch=198); spectrum; iter=5; mmd_3: 0.08583
+--> average: 0.08565
+train(2w) vs fake seqs (epoch=198); spectrum; iter=1; mmd_4: 0.09107
+train(2w) vs fake seqs (epoch=198); spectrum; iter=2; mmd_4: 0.09135
+train(2w) vs fake seqs (epoch=198); spectrum; iter=3; mmd_4: 0.09004
+train(2w) vs fake seqs (epoch=198); spectrum; iter=4; mmd_4: 0.09109
+train(2w) vs fake seqs (epoch=198); spectrum; iter=5; mmd_4: 0.09143
+--> average: 0.09100
+train(2w) vs fake seqs (epoch=198); spectrum; iter=1; mmd_5: 0.07797
+train(2w) vs fake seqs (epoch=198); spectrum; iter=2; mmd_5: 0.07769
+train(2w) vs fake seqs (epoch=198); spectrum; iter=3; mmd_5: 0.07798
+train(2w) vs fake seqs (epoch=198); spectrum; iter=4; mmd_5: 0.07866
+train(2w) vs fake seqs (epoch=198); spectrum; iter=5; mmd_5: 0.07780
+--> average: 0.07802
+train(2w) vs fake seqs (epoch=198); spectrum; iter=1; mmd_6: 0.06232
+train(2w) vs fake seqs (epoch=198); spectrum; iter=2; mmd_6: 0.06179
+train(2w) vs fake seqs (epoch=198); spectrum; iter=3; mmd_6: 0.06174
+train(2w) vs fake seqs (epoch=198); spectrum; iter=4; mmd_6: 0.06245
+train(2w) vs fake seqs (epoch=198); spectrum; iter=5; mmd_6: 0.06134
+--> average: 0.06193
+train(2w) vs fake seqs (epoch=198); DNABert; iter=1; mmd_3: 0.12053
+train(2w) vs fake seqs (epoch=198); DNABert; iter=2; mmd_3: 0.11950
+train(2w) vs fake seqs (epoch=198); DNABert; iter=3; mmd_3: 0.12029
+train(2w) vs fake seqs (epoch=198); DNABert; iter=4; mmd_3: 0.11887
+train(2w) vs fake seqs (epoch=198); DNABert; iter=5; mmd_3: 0.11784
+--> average: 0.11940
+train(2w) vs fake seqs (epoch=198); DNABert; iter=1; mmd_4: 0.06061
+train(2w) vs fake seqs (epoch=198); DNABert; iter=2; mmd_4: 0.06129
+train(2w) vs fake seqs (epoch=198); DNABert; iter=3; mmd_4: 0.06089
+train(2w) vs fake seqs (epoch=198); DNABert; iter=4; mmd_4: 0.06161
+train(2w) vs fake seqs (epoch=198); DNABert; iter=5; mmd_4: 0.06071
+--> average: 0.06102
+train(2w) vs fake seqs (epoch=198); DNABert; iter=1; mmd_5: 0.03682
+train(2w) vs fake seqs (epoch=198); DNABert; iter=2; mmd_5: 0.03744
+train(2w) vs fake seqs (epoch=198); DNABert; iter=3; mmd_5: 0.03853
+train(2w) vs fake seqs (epoch=198); DNABert; iter=4; mmd_5: 0.03630
+train(2w) vs fake seqs (epoch=198); DNABert; iter=5; mmd_5: 0.03748
+--> average: 0.03731
+train(2w) vs fake seqs (epoch=198); DNABert; iter=1; mmd_6: 0.04817
+train(2w) vs fake seqs (epoch=198); DNABert; iter=2; mmd_6: 0.04894
+train(2w) vs fake seqs (epoch=198); DNABert; iter=3; mmd_6: 0.04770
+train(2w) vs fake seqs (epoch=198); DNABert; iter=4; mmd_6: 0.04744
+train(2w) vs fake seqs (epoch=198); DNABert; iter=5; mmd_6: 0.04701
+--> average: 0.04785
+train(2w) vs fake seqs (epoch=199); spectrum; iter=1; mmd_3: 0.08276
+train(2w) vs fake seqs (epoch=199); spectrum; iter=2; mmd_3: 0.08378
+train(2w) vs fake seqs (epoch=199); spectrum; iter=3; mmd_3: 0.08286
+train(2w) vs fake seqs (epoch=199); spectrum; iter=4; mmd_3: 0.08412
+train(2w) vs fake seqs (epoch=199); spectrum; iter=5; mmd_3: 0.08384
+--> average: 0.08347
+train(2w) vs fake seqs (epoch=199); spectrum; iter=1; mmd_4: 0.08971
+train(2w) vs fake seqs (epoch=199); spectrum; iter=2; mmd_4: 0.08969
+train(2w) vs fake seqs (epoch=199); spectrum; iter=3; mmd_4: 0.09063
+train(2w) vs fake seqs (epoch=199); spectrum; iter=4; mmd_4: 0.08955
+train(2w) vs fake seqs (epoch=199); spectrum; iter=5; mmd_4: 0.08911
+--> average: 0.08974
+train(2w) vs fake seqs (epoch=199); spectrum; iter=1; mmd_5: 0.07492
+train(2w) vs fake seqs (epoch=199); spectrum; iter=2; mmd_5: 0.07417
+train(2w) vs fake seqs (epoch=199); spectrum; iter=3; mmd_5: 0.07358
+train(2w) vs fake seqs (epoch=199); spectrum; iter=4; mmd_5: 0.07433
+train(2w) vs fake seqs (epoch=199); spectrum; iter=5; mmd_5: 0.07457
+--> average: 0.07431
+train(2w) vs fake seqs (epoch=199); spectrum; iter=1; mmd_6: 0.05977
+train(2w) vs fake seqs (epoch=199); spectrum; iter=2; mmd_6: 0.05920
+train(2w) vs fake seqs (epoch=199); spectrum; iter=3; mmd_6: 0.05923
+train(2w) vs fake seqs (epoch=199); spectrum; iter=4; mmd_6: 0.05904
+train(2w) vs fake seqs (epoch=199); spectrum; iter=5; mmd_6: 0.05949
+--> average: 0.05935
+train(2w) vs fake seqs (epoch=199); DNABert; iter=1; mmd_3: 0.12378
+train(2w) vs fake seqs (epoch=199); DNABert; iter=2; mmd_3: 0.12524
+train(2w) vs fake seqs (epoch=199); DNABert; iter=3; mmd_3: 0.12398
+train(2w) vs fake seqs (epoch=199); DNABert; iter=4; mmd_3: 0.12218
+train(2w) vs fake seqs (epoch=199); DNABert; iter=5; mmd_3: 0.12508
+--> average: 0.12405
+train(2w) vs fake seqs (epoch=199); DNABert; iter=1; mmd_4: 0.06542
+train(2w) vs fake seqs (epoch=199); DNABert; iter=2; mmd_4: 0.06504
+train(2w) vs fake seqs (epoch=199); DNABert; iter=3; mmd_4: 0.06695
+train(2w) vs fake seqs (epoch=199); DNABert; iter=4; mmd_4: 0.06623
+train(2w) vs fake seqs (epoch=199); DNABert; iter=5; mmd_4: 0.06665
+--> average: 0.06606
+train(2w) vs fake seqs (epoch=199); DNABert; iter=1; mmd_5: 0.04513
+train(2w) vs fake seqs (epoch=199); DNABert; iter=2; mmd_5: 0.04620
+train(2w) vs fake seqs (epoch=199); DNABert; iter=3; mmd_5: 0.04505
+train(2w) vs fake seqs (epoch=199); DNABert; iter=4; mmd_5: 0.04480
+train(2w) vs fake seqs (epoch=199); DNABert; iter=5; mmd_5: 0.04492
+--> average: 0.04522
+train(2w) vs fake seqs (epoch=199); DNABert; iter=1; mmd_6: 0.04930
+train(2w) vs fake seqs (epoch=199); DNABert; iter=2; mmd_6: 0.04798
+train(2w) vs fake seqs (epoch=199); DNABert; iter=3; mmd_6: 0.04781
+train(2w) vs fake seqs (epoch=199); DNABert; iter=4; mmd_6: 0.04875
+train(2w) vs fake seqs (epoch=199); DNABert; iter=5; mmd_6: 0.04728
+--> average: 0.04822
+train(2w) vs fake seqs (epoch=200); spectrum; iter=1; mmd_3: 0.07508
+train(2w) vs fake seqs (epoch=200); spectrum; iter=2; mmd_3: 0.07439
+train(2w) vs fake seqs (epoch=200); spectrum; iter=3; mmd_3: 0.07439
+train(2w) vs fake seqs (epoch=200); spectrum; iter=4; mmd_3: 0.07480
+train(2w) vs fake seqs (epoch=200); spectrum; iter=5; mmd_3: 0.07378
+--> average: 0.07449
+train(2w) vs fake seqs (epoch=200); spectrum; iter=1; mmd_4: 0.08102
+train(2w) vs fake seqs (epoch=200); spectrum; iter=2; mmd_4: 0.08094
+train(2w) vs fake seqs (epoch=200); spectrum; iter=3; mmd_4: 0.08083
+train(2w) vs fake seqs (epoch=200); spectrum; iter=4; mmd_4: 0.08117
+train(2w) vs fake seqs (epoch=200); spectrum; iter=5; mmd_4: 0.08149
+--> average: 0.08109
+train(2w) vs fake seqs (epoch=200); spectrum; iter=1; mmd_5: 0.06833
+train(2w) vs fake seqs (epoch=200); spectrum; iter=2; mmd_5: 0.06790
+train(2w) vs fake seqs (epoch=200); spectrum; iter=3; mmd_5: 0.06810
+train(2w) vs fake seqs (epoch=200); spectrum; iter=4; mmd_5: 0.06783
+train(2w) vs fake seqs (epoch=200); spectrum; iter=5; mmd_5: 0.06840
+--> average: 0.06811
+train(2w) vs fake seqs (epoch=200); spectrum; iter=1; mmd_6: 0.05622
+train(2w) vs fake seqs (epoch=200); spectrum; iter=2; mmd_6: 0.05568
+train(2w) vs fake seqs (epoch=200); spectrum; iter=3; mmd_6: 0.05632
+train(2w) vs fake seqs (epoch=200); spectrum; iter=4; mmd_6: 0.05597
+train(2w) vs fake seqs (epoch=200); spectrum; iter=5; mmd_6: 0.05610
+--> average: 0.05606
+train(2w) vs fake seqs (epoch=200); DNABert; iter=1; mmd_3: 0.11714
+train(2w) vs fake seqs (epoch=200); DNABert; iter=2; mmd_3: 0.11711
+train(2w) vs fake seqs (epoch=200); DNABert; iter=3; mmd_3: 0.11652
+train(2w) vs fake seqs (epoch=200); DNABert; iter=4; mmd_3: 0.11652
+train(2w) vs fake seqs (epoch=200); DNABert; iter=5; mmd_3: 0.11713
+--> average: 0.11688
+train(2w) vs fake seqs (epoch=200); DNABert; iter=1; mmd_4: 0.05893
+train(2w) vs fake seqs (epoch=200); DNABert; iter=2; mmd_4: 0.05766
+train(2w) vs fake seqs (epoch=200); DNABert; iter=3; mmd_4: 0.05833
+train(2w) vs fake seqs (epoch=200); DNABert; iter=4; mmd_4: 0.05833
+train(2w) vs fake seqs (epoch=200); DNABert; iter=5; mmd_4: 0.05904
+--> average: 0.05846
+train(2w) vs fake seqs (epoch=200); DNABert; iter=1; mmd_5: 0.04397
+train(2w) vs fake seqs (epoch=200); DNABert; iter=2; mmd_5: 0.04383
+train(2w) vs fake seqs (epoch=200); DNABert; iter=3; mmd_5: 0.04368
+train(2w) vs fake seqs (epoch=200); DNABert; iter=4; mmd_5: 0.04370
+train(2w) vs fake seqs (epoch=200); DNABert; iter=5; mmd_5: 0.04404
+--> average: 0.04384
+train(2w) vs fake seqs (epoch=200); DNABert; iter=1; mmd_6: 0.04016
+train(2w) vs fake seqs (epoch=200); DNABert; iter=2; mmd_6: 0.04138
+train(2w) vs fake seqs (epoch=200); DNABert; iter=3; mmd_6: 0.04097
+train(2w) vs fake seqs (epoch=200); DNABert; iter=4; mmd_6: 0.04246
+train(2w) vs fake seqs (epoch=200); DNABert; iter=5; mmd_6: 0.04130
+--> average: 0.04125
+train(2w) vs test; spectrum; iter=1; mmd_3: 0.03679
+train(2w) vs test; spectrum; iter=2; mmd_3: 0.03876
+train(2w) vs test; spectrum; iter=3; mmd_3: 0.03712
+train(2w) vs test; spectrum; iter=4; mmd_3: 0.03724
+train(2w) vs test; spectrum; iter=5; mmd_3: 0.04160
+--> average: 0.03830
+train(2w) vs test; spectrum; iter=1; mmd_4: 0.03902
+train(2w) vs test; spectrum; iter=2; mmd_4: 0.03796
+train(2w) vs test; spectrum; iter=3; mmd_4: 0.03754
+train(2w) vs test; spectrum; iter=4; mmd_4: 0.03806
+train(2w) vs test; spectrum; iter=5; mmd_4: 0.03730
+--> average: 0.03798
+train(2w) vs test; spectrum; iter=1; mmd_5: 0.03205
+train(2w) vs test; spectrum; iter=2; mmd_5: 0.03330
+train(2w) vs test; spectrum; iter=3; mmd_5: 0.03337
+train(2w) vs test; spectrum; iter=4; mmd_5: 0.03310
+train(2w) vs test; spectrum; iter=5; mmd_5: 0.03229
+--> average: 0.03282
+train(2w) vs test; spectrum; iter=1; mmd_6: 0.02427
+train(2w) vs test; spectrum; iter=2; mmd_6: 0.02579
+train(2w) vs test; spectrum; iter=3; mmd_6: 0.02579
+train(2w) vs test; spectrum; iter=4; mmd_6: 0.02352
+train(2w) vs test; spectrum; iter=5; mmd_6: 0.02478
+--> average: 0.02483
+train(2w) vs test; DNABert; iter=1; mmd_3: 0.02840
+train(2w) vs test; DNABert; iter=2; mmd_3: 0.02869
+train(2w) vs test; DNABert; iter=3; mmd_3: 0.03087
+train(2w) vs test; DNABert; iter=4; mmd_3: 0.02904
+train(2w) vs test; DNABert; iter=5; mmd_3: 0.03034
+--> average: 0.02947
+train(2w) vs test; DNABert; iter=1; mmd_4: 0.02005
+train(2w) vs test; DNABert; iter=2; mmd_4: 0.01995
+train(2w) vs test; DNABert; iter=3; mmd_4: 0.02022
+train(2w) vs test; DNABert; iter=4; mmd_4: 0.01868
+train(2w) vs test; DNABert; iter=5; mmd_4: 0.02179
+--> average: 0.02014
+train(2w) vs test; DNABert; iter=1; mmd_5: 0.01770
+train(2w) vs test; DNABert; iter=2; mmd_5: 0.01924
+train(2w) vs test; DNABert; iter=3; mmd_5: 0.01788
+train(2w) vs test; DNABert; iter=4; mmd_5: 0.01765
+train(2w) vs test; DNABert; iter=5; mmd_5: 0.01744
+--> average: 0.01798
+train(2w) vs test; DNABert; iter=1; mmd_6: 0.02081
+train(2w) vs test; DNABert; iter=2; mmd_6: 0.02018
+train(2w) vs test; DNABert; iter=3; mmd_6: 0.01862
+train(2w) vs test; DNABert; iter=4; mmd_6: 0.02044
+train(2w) vs test; DNABert; iter=5; mmd_6: 0.01799
+--> average: 0.01961
+train(2w) vs val sequences; spectrum; iter=1; mmd_3: 0.02604
+train(2w) vs val sequences; spectrum; iter=2; mmd_3: 0.02498
+train(2w) vs val sequences; spectrum; iter=3; mmd_3: 0.02460
+train(2w) vs val sequences; spectrum; iter=4; mmd_3: 0.02471
+train(2w) vs val sequences; spectrum; iter=5; mmd_3: 0.02709
+--> average: 0.02548
+train(2w) vs val sequences; spectrum; iter=1; mmd_4: 0.02766
+train(2w) vs val sequences; spectrum; iter=2; mmd_4: 0.02838
+train(2w) vs val sequences; spectrum; iter=3; mmd_4: 0.02790
+train(2w) vs val sequences; spectrum; iter=4; mmd_4: 0.02955
+train(2w) vs val sequences; spectrum; iter=5; mmd_4: 0.02674
+--> average: 0.02805
+train(2w) vs val sequences; spectrum; iter=1; mmd_5: 0.02464
+train(2w) vs val sequences; spectrum; iter=2; mmd_5: 0.02444
+train(2w) vs val sequences; spectrum; iter=3; mmd_5: 0.02430
+train(2w) vs val sequences; spectrum; iter=4; mmd_5: 0.02621
+train(2w) vs val sequences; spectrum; iter=5; mmd_5: 0.02527
+--> average: 0.02497
+train(2w) vs val sequences; spectrum; iter=1; mmd_6: 0.02263
+train(2w) vs val sequences; spectrum; iter=2; mmd_6: 0.02385
+train(2w) vs val sequences; spectrum; iter=3; mmd_6: 0.02260
+train(2w) vs val sequences; spectrum; iter=4; mmd_6: 0.02283
+train(2w) vs val sequences; spectrum; iter=5; mmd_6: 0.02170
+--> average: 0.02272
+train(2w) vs val sequences; DNABert; iter=1; mmd_3: 0.01870
+train(2w) vs val sequences; DNABert; iter=2; mmd_3: 0.01890
+train(2w) vs val sequences; DNABert; iter=3; mmd_3: 0.01798
+train(2w) vs val sequences; DNABert; iter=4; mmd_3: 0.01835
+train(2w) vs val sequences; DNABert; iter=5; mmd_3: 0.01808
+--> average: 0.01840
+train(2w) vs val sequences; DNABert; iter=1; mmd_4: 0.01380
+train(2w) vs val sequences; DNABert; iter=2; mmd_4: 0.01434
+train(2w) vs val sequences; DNABert; iter=3; mmd_4: 0.01431
+train(2w) vs val sequences; DNABert; iter=4; mmd_4: 0.01311
+train(2w) vs val sequences; DNABert; iter=5; mmd_4: 0.01343
+--> average: 0.01380
+train(2w) vs val sequences; DNABert; iter=1; mmd_5: 0.01291
+train(2w) vs val sequences; DNABert; iter=2; mmd_5: 0.01356
+train(2w) vs val sequences; DNABert; iter=3; mmd_5: 0.01337
+train(2w) vs val sequences; DNABert; iter=4; mmd_5: 0.01386
+train(2w) vs val sequences; DNABert; iter=5; mmd_5: 0.01201
+--> average: 0.01314
+train(2w) vs val sequences; DNABert; iter=1; mmd_6: 0.01330
+train(2w) vs val sequences; DNABert; iter=2; mmd_6: 0.01414
+train(2w) vs val sequences; DNABert; iter=3; mmd_6: 0.01374
+train(2w) vs val sequences; DNABert; iter=4; mmd_6: 0.01348
+train(2w) vs val sequences; DNABert; iter=5; mmd_6: 0.01368
+--> average: 0.01367
+low(-0.5000) vs high(0.5000); spectrum; mmd_3: 0.10285
+low(-0.5000) vs high(0.5000); spectrum; mmd_4: 0.10298
+low(-0.5000) vs high(0.5000); spectrum; mmd_5: 0.08621
+low(-0.5000) vs high(0.5000); spectrum; mmd_6: 0.06218
+low(-1.0000) vs high(1.5000); spectrum; mmd_3: 0.12294
+low(-1.0000) vs high(1.5000); spectrum; mmd_4: 0.12558
+low(-1.0000) vs high(1.5000); spectrum; mmd_5: 0.10642
+low(-1.0000) vs high(1.5000); spectrum; mmd_6: 0.07709
+low(-1.0000) vs high(2.5000); spectrum; mmd_3: 0.12955
+low(-1.0000) vs high(2.5000); spectrum; mmd_4: 0.13388
+low(-1.0000) vs high(2.5000); spectrum; mmd_5: 0.11426
+low(-1.0000) vs high(2.5000); spectrum; mmd_6: 0.08333
+low(-1.0000) vs high(3.0000); spectrum; mmd_3: 0.13431
+low(-1.0000) vs high(3.0000); spectrum; mmd_4: 0.13873
+low(-1.0000) vs high(3.0000); spectrum; mmd_5: 0.11844
+low(-1.0000) vs high(3.0000); spectrum; mmd_6: 0.08664
+low(-1.0000) vs high(3.5000); spectrum; mmd_3: 0.13680
+low(-1.0000) vs high(3.5000); spectrum; mmd_4: 0.14164
+low(-1.0000) vs high(3.5000); spectrum; mmd_5: 0.12165
+low(-1.0000) vs high(3.5000); spectrum; mmd_6: 0.08959
+low(-0.5000) vs high(0.5000); spectrum; mmd_3: 0.21571
+low(-0.5000) vs high(0.5000); spectrum; mmd_4: 0.21185
+low(-0.5000) vs high(0.5000); spectrum; mmd_5: 0.17226
+low(-0.5000) vs high(0.5000); spectrum; mmd_6: 0.12016
+low(-1.0000) vs high(1.5000); spectrum; mmd_3: 0.45100
+low(-1.0000) vs high(1.5000); spectrum; mmd_4: 0.43103
+low(-1.0000) vs high(1.5000); spectrum; mmd_5: 0.33705
+low(-1.0000) vs high(1.5000); spectrum; mmd_6: 0.22524
+low(-1.0000) vs high(2.5000); spectrum; mmd_3: 0.45686
+low(-1.0000) vs high(2.5000); spectrum; mmd_4: 0.43720
+low(-1.0000) vs high(2.5000); spectrum; mmd_5: 0.34175
+low(-1.0000) vs high(2.5000); spectrum; mmd_6: 0.22843
+low(-1.0000) vs high(3.0000); spectrum; mmd_3: 0.46026
+low(-1.0000) vs high(3.0000); spectrum; mmd_4: 0.44056
+low(-1.0000) vs high(3.0000); spectrum; mmd_5: 0.34429
+low(-1.0000) vs high(3.0000); spectrum; mmd_6: 0.23017
+low(-1.0000) vs high(3.5000); spectrum; mmd_3: 0.46514
+low(-1.0000) vs high(3.5000); spectrum; mmd_4: 0.44500
+low(-1.0000) vs high(3.5000); spectrum; mmd_5: 0.34805
+low(-1.0000) vs high(3.5000); spectrum; mmd_6: 0.23368
+
+low(0.0000) vs high(3.0000); spectrum; mmd_3: 0.11527
+low(0.0000) vs high(3.0000); spectrum; mmd_4: 0.12817
+low(0.0000) vs high(3.0000); spectrum; mmd_5: 0.11545
+low(0.0000) vs high(3.0000); spectrum; mmd_6: 0.08805
+low(0.0000) vs high(3.5000); spectrum; mmd_3: 0.12189
+low(0.0000) vs high(3.5000); spectrum; mmd_4: 0.13436
+low(0.0000) vs high(3.5000); spectrum; mmd_5: 0.12157
+low(0.0000) vs high(3.5000); spectrum; mmd_6: 0.09444

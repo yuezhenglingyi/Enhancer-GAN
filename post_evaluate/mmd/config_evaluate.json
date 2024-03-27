@@ -1,0 +1,18 @@
+{
+    "real_file_path": "../../data/real_Sequence_train.txt",
+    "fake_file_path": "../../data/real_Sequence_val.txt",
+    
+    "mer": 3,
+    
+    "embedding": "spectrum", 
+    "#embedding": "DNABert", 
+    "model_path": "./3-new-12w-0",
+    "max_length": 250,
+    "batch_size": 128,
+    
+    "mode": "count",
+    "normalize": true,
+    "kernel": "linear",
+    "return_pvalue": false
+
+}

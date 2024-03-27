@@ -1,0 +1,17 @@
+CUDA_VISIBLE_DEVICES="1" python Enhancer-GAN.py  \
+--lr 0.00001 \
+--input_rate 0.7 \
+--output_rate 0.3 \
+--num_epochs 1000 \
+--train_dir data/real_Sequence_test.txt \
+--val_dir data/real_Sequence_val.txt \
+--d_steps 5 \
+--lamda 8 \
+--gumbel 0 \
+--retrain 1 \
+--load_dir ./checkpoint/Vanilla-GAN/1689393684/model_path \
+--iteration 200 \
+--time "1689393684_6" \
+--start_cutoff 1.0 \
+--add_cutoff 0.020 \
+--mmd_cutoff 0.3
